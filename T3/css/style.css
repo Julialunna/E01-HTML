@@ -1,0 +1,22 @@
+.titulo__principal{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 30px;
+	margin: 0.5em;
+ }
+ .linha__head{
+	font-weight: 800;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ .coluna{
+	border: 1px solid black;
+	padding: 1em;
+ }
+ .rodape{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	margin: 1em;
+ }
+ .tabela__gabarito{
+	margin: 1em;
+	width: 590px;
+ }
+ 
